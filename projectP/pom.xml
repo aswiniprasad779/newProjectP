@@ -93,7 +93,7 @@
 
 <profiles>
 	<profile>
-	<id>sureprofile</id>
+	<id>testngnew</id>
  <build>
    <plugins>
     <plugin>
@@ -102,7 +102,7 @@
        <version>3.0.0-M8</version>
         <configuration>
          <suiteXmlFiles> 
-         <suiteXmlFile>testng_sure.xml</suiteXmlFile>
+         <suiteXmlFile>testngnew.xml</suiteXmlFile>
       </suiteXmlFiles>
         </configuration>
         </plugin> 
